@@ -128,12 +128,20 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="L2.c" />
+    <ClCompile Include="L2_10.c" />
+    <ClCompile Include="L2_11.c" />
     <ClCompile Include="L2_2.c" />
     <ClCompile Include="L2_3.c" />
     <ClCompile Include="L2_4.c" />
     <ClCompile Include="L2_5.c" />
     <ClCompile Include="L2_6.c" />
+    <ClCompile Include="L2_7.c" />
+    <ClCompile Include="L2_8.c" />
+    <ClCompile Include="L2_9.c" />
     <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
